@@ -1,0 +1,14 @@
+/Users/bazim/Desktop/projects/C#/ConvertorValut/obj/Debug/net8.0/ConvertorValut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bazim/Desktop/projects/C#/ConvertorValut/obj/Debug/net8.0/ConvertorValut.AssemblyInfoInputs.cache
+/Users/bazim/Desktop/projects/C#/ConvertorValut/obj/Debug/net8.0/ConvertorValut.AssemblyInfo.cs
+/Users/bazim/Desktop/projects/C#/ConvertorValut/obj/Debug/net8.0/ConvertorValut.csproj.CoreCompileInputs.cache
+/Users/bazim/Desktop/projects/C#/ConvertorValut/bin/Debug/net8.0/ConvertorValut
+/Users/bazim/Desktop/projects/C#/ConvertorValut/bin/Debug/net8.0/ConvertorValut.deps.json
+/Users/bazim/Desktop/projects/C#/ConvertorValut/bin/Debug/net8.0/ConvertorValut.runtimeconfig.json
+/Users/bazim/Desktop/projects/C#/ConvertorValut/bin/Debug/net8.0/ConvertorValut.dll
+/Users/bazim/Desktop/projects/C#/ConvertorValut/bin/Debug/net8.0/ConvertorValut.pdb
+/Users/bazim/Desktop/projects/C#/ConvertorValut/obj/Debug/net8.0/ConvertorValut.dll
+/Users/bazim/Desktop/projects/C#/ConvertorValut/obj/Debug/net8.0/refint/ConvertorValut.dll
+/Users/bazim/Desktop/projects/C#/ConvertorValut/obj/Debug/net8.0/ConvertorValut.pdb
+/Users/bazim/Desktop/projects/C#/ConvertorValut/obj/Debug/net8.0/ConvertorValut.genruntimeconfig.cache
+/Users/bazim/Desktop/projects/C#/ConvertorValut/obj/Debug/net8.0/ref/ConvertorValut.dll

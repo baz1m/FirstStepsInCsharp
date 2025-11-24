@@ -1,0 +1,14 @@
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/bin/Debug/net8.0/Calculatorswitch
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/bin/Debug/net8.0/Calculatorswitch.deps.json
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/bin/Debug/net8.0/Calculatorswitch.runtimeconfig.json
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/bin/Debug/net8.0/Calculatorswitch.dll
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/bin/Debug/net8.0/Calculatorswitch.pdb
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/obj/Debug/net8.0/Calculatorswitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/obj/Debug/net8.0/Calculatorswitch.AssemblyInfoInputs.cache
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/obj/Debug/net8.0/Calculatorswitch.AssemblyInfo.cs
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/obj/Debug/net8.0/Calculatorswitch.csproj.CoreCompileInputs.cache
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/obj/Debug/net8.0/Calculatorswitch.dll
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/obj/Debug/net8.0/refint/Calculatorswitch.dll
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/obj/Debug/net8.0/Calculatorswitch.pdb
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/obj/Debug/net8.0/Calculatorswitch.genruntimeconfig.cache
+/Users/bazim/Desktop/projects/C#/Calculatorswitch/obj/Debug/net8.0/ref/Calculatorswitch.dll

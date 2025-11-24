@@ -1,0 +1,14 @@
+/Users/bazim/Desktop/projects/C#/Calculatorif/bin/Debug/net8.0/Calculatorif
+/Users/bazim/Desktop/projects/C#/Calculatorif/bin/Debug/net8.0/Calculatorif.deps.json
+/Users/bazim/Desktop/projects/C#/Calculatorif/bin/Debug/net8.0/Calculatorif.runtimeconfig.json
+/Users/bazim/Desktop/projects/C#/Calculatorif/bin/Debug/net8.0/Calculatorif.dll
+/Users/bazim/Desktop/projects/C#/Calculatorif/bin/Debug/net8.0/Calculatorif.pdb
+/Users/bazim/Desktop/projects/C#/Calculatorif/obj/Debug/net8.0/Calculatorif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bazim/Desktop/projects/C#/Calculatorif/obj/Debug/net8.0/Calculatorif.AssemblyInfoInputs.cache
+/Users/bazim/Desktop/projects/C#/Calculatorif/obj/Debug/net8.0/Calculatorif.AssemblyInfo.cs
+/Users/bazim/Desktop/projects/C#/Calculatorif/obj/Debug/net8.0/Calculatorif.csproj.CoreCompileInputs.cache
+/Users/bazim/Desktop/projects/C#/Calculatorif/obj/Debug/net8.0/Calculatorif.dll
+/Users/bazim/Desktop/projects/C#/Calculatorif/obj/Debug/net8.0/refint/Calculatorif.dll
+/Users/bazim/Desktop/projects/C#/Calculatorif/obj/Debug/net8.0/Calculatorif.pdb
+/Users/bazim/Desktop/projects/C#/Calculatorif/obj/Debug/net8.0/Calculatorif.genruntimeconfig.cache
+/Users/bazim/Desktop/projects/C#/Calculatorif/obj/Debug/net8.0/ref/Calculatorif.dll
