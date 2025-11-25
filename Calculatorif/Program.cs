@@ -8,10 +8,19 @@ namespace Calculatorif
         static void Main(string[] args)
         {
             System.Console.WriteLine("Введіть перше число");
-            double virstValue = double.Parse(Console.ReadLine());
+            if (!double.TryParse(Console.ReadLine(), out double virstValue))
+            {
+            Console.WriteLine("Помилка, введіть число!");
+            return;
+            }
             System.Console.WriteLine("Введіть друге число");
-            double secondValue = double.Parse(Console.ReadLine());
+            if (!double.TryParse(Console.ReadLine(), out double secondValue))
+            {
+            Console.WriteLine("Помилка, введіть число!");
+            return;
+            }
             System.Console.WriteLine("Введіть дію '+' '-' '*' '/' ");
+            string error = "Помилка, уведіть число";
             string action = Console.ReadLine();
             if (action == "+") {
                 System.Console.WriteLine("Відповідь: " + (virstValue + secondValue));
@@ -26,7 +35,7 @@ namespace Calculatorif
                 System.Console.WriteLine("Відповідь: " + (virstValue / secondValue));
             }
             else {
-                System.Console.WriteLine("Помилка");
+                System.Console.WriteLine(error);
             }
         }
     }
